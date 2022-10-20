@@ -50,7 +50,7 @@ rW12|lx.
 .B "Software Engineer II - BD"
 \(en San Diego, US
 .IP \(bu
-Collaborates will a diverse, multinational team from around the world
+Collaborates with a diverse, multinational team from around the world
 .IP \(bu
 Acting as senior software engineer for IoT connectivity product
 .IP \(bu
