@@ -23,7 +23,7 @@
 .ps 18
 .B "Nicholas Gorden"
 .ps 16
-Software Engineer
+Software Engineer II
 .ps 10
 .TS
 tab(;) nospaces;
@@ -37,16 +37,30 @@ T}
 .TE
 
 .B Skills:
-C# .NET Core C/C++(Preferred) Java Kubernetes Git PowerShell Bash Jenkins React Design Patterns Microservices Azure Docker Containers CI/CD Redis Dapr Vim SQL TSQL SSMS Windows Linux (Preferred) MacOS Multithreading TDD BDD XUnit NUnit Deployment Debugging Valgrind GDB LLDB
+C# (Preferred), .NET Core, C/C++, Java, Kubernetes, Git, PowerShell, Bash, Jenkins, React, Design Patterns, Microservices, Azure, Docker Containers, CI/CD, Redis, Dapr, Vim, SQL, TSQL, SSMS, Windows, Linux (Preferred), MacOS, Multithreading, TDD, BDD, XUnit, NUnit, Deployment, Debugging, Valgrind, GDB, LLDB
 
 .B "Professional Experience:"
-Code Reviews, Spec Writing, Test Scenario Development, Software Documentation, Cross Team Collaboration, Software Architecture Design, Agile, Scrum
+Code Reviews, Spec Writing, Test Scenario Development, Software Documentation, Cross Team Collaboration, Software Architecture Design, Agile, Scrum, Team Leadership
 
 .TS
 tab(;) nospaces;
 rW12|lx.
 
-\m[default]Jan 2020-Current\m[linecolor];T{
+\m[default]Sep 2022-Current\m[linecolor];T{
+.B "Software Engineer II - BD"
+\(en San Diego, US
+.IP \(bu
+Collaborates will a diverse, multinational team from around the world
+.IP \(bu
+Acting as senior software engineer for IoT connectivity product
+.IP \(bu
+Serving as de facto tech lead for a small team to constitute cohesion and synergy
+.IP \(bu
+Giving design input and recommendations for a large multi-service product
+.sp .5
+T}
+
+\m[default]Jan 2020-Sep 2022\m[linecolor];T{
 .B "Software Engineer I - BD"
 \(en San Diego, US
 .IP \(bu
