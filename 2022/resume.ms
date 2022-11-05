@@ -28,11 +28,11 @@ Software Engineer II
 .TS
 tab(;) nospaces;
 l rx.
-Email available upon request;T{
+nickgorden.xyz;T{
 .pdfhref W -D https://linkedin.com/in/nicholas-gorden \fBLinkedIn\fR
 T}
 San Diego Metropolation Area;T{
-.I "Phone no. available upon request"
+.I "Phone and email available upon request"
 T}
 .TE
 
