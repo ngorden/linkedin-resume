@@ -21,7 +21,7 @@
 
 .ce 2
 .ps 18
-.B "Nicholas Gorden"
+.B "Nicholas P Gorden"
 .ps 16
 Software Engineer II
 .ps 10
@@ -36,8 +36,8 @@ San Diego Metropolation Area;T{
 T}
 .TE
 
-.B Skills:
-C# (Preferred), .NET Core, C/C++, Java, Kubernetes, Git, PowerShell, Bash, Jenkins, React, Design Patterns, Microservices, Azure, Docker Containers, CI/CD, Redis, Dapr, Vim, SQL, TSQL, SSMS, Windows, Linux (Preferred), MacOS, Multithreading, TDD, BDD, XUnit, NUnit, Deployment, Debugging, Valgrind, GDB, LLDB
+.B "Technical Skills:"
+C# (Preferred), .NET Core, C/C++, Java, Kubernetes, Git, PowerShell, Bash, Jenkins, React, Design Patterns, Microservices, Azure, Docker Containers, CI/CD, Redis, Dapr, Vim, SQL, TSQL, SSMS, Windows, Linux (Preferred), MacOS, Multithreading, TDD, BDD, XUnit, NUnit, Deployment, Debugging, Valgrind, GDB, LLDB, Rust
 
 .B "Professional Experience:"
 Code Reviews, Spec Writing, Test Scenario Development, Software Documentation, Cross Team Collaboration, Software Architecture Design, Agile, Scrum, Team Leadership
@@ -50,7 +50,9 @@ rW12|lx.
 .B "Software Engineer II - BD"
 \(en San Diego, US
 .IP \(bu
-Collaborates with a diverse, multinational team from around the world
+Collaborates with a diverse, multinational global team
+.IP \(bu
+Lead Developer for IoT connectivity product
 .IP \(bu
 Acting as senior software engineer for IoT connectivity product
 .IP \(bu
@@ -113,12 +115,6 @@ Allows pharmacy managers to input orders for low stock items
 Used throughout multiple locations in Botswana
 T}
 
-\m[default]Weatherbot\m[linecolor];T{
-.IP \(bu
-Allows user to fetch weather for any location
-.IP \(bu
-Saves weather conditions to local data store for future reference
-T}
 .TE
 
 .heading Education
@@ -133,13 +129,4 @@ Business Analytics and Information Systems, IS track. (120 credits / Graduated)
 .sp .5
 T}
 
-\m[default]Relevant coursework\m[linecolor];T{
-.IP \(bu
-Computer Science I and II with lab
-.IP \(bu
-Data Structures
-.IP \(bu
-Business Programming
-.sp .5
-T}
 .TE
