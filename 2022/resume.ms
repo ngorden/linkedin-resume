@@ -8,7 +8,7 @@
 
 .de heading
 .nf
-.ps 14
+.ps 12
 .B "\\$1"
 \h'0n'\v'-1.2n'\
 \m[headingcolor]\
@@ -28,19 +28,21 @@ Software Engineer II
 .TS
 tab(;) nospaces;
 l rx.
-nickgorden.xyz;T{
+San Diego Metropolation Area;T{
 .pdfhref W -D https://linkedin.com/in/nicholas-gorden \fBLinkedIn\fR
 T}
-San Diego Metropolation Area;T{
-.I "Phone and email available upon request"
+Phone and email available upon request;T{
+.pdfhref W -D https://nickgorden.xyz \fBnickgorden.xyz\fR
 T}
 .TE
 
 .B "Technical Skills:"
-C# (Preferred), .NET Core, C/C++, Java, Kubernetes, Git, PowerShell, Bash, Jenkins, React, Design Patterns, Microservices, Azure, Docker Containers, CI/CD, Redis, Dapr, Vim, SQL, TSQL, SSMS, Windows, Linux (Preferred), MacOS, Multithreading, TDD, BDD, XUnit, NUnit, Deployment, Debugging, Valgrind, GDB, LLDB, Rust
+C#/.NET Core (Preferred), C/C++, Java, Kubernetes, Git, PowerShell, Bash, Jenkins, React, Design Patterns, Microservices, Azure, Docker Containers, CI/CD, Redis, Dapr, Vim/Neovim, SQL, TSQL, SSMS, Windows, GNU/Linux (Preferred), MacOS, Multithreading, TDD, BDD, XUnit, NUnit, Deployment, Debugging, Valgrind, GDB, LLDB, Rust
 
-.B "Professional Experience:"
-Code Reviews, Spec Writing, Test Scenario Development, Software Documentation, Cross Team Collaboration, Software Architecture Design, Agile, Scrum, Team Leadership
+.B "Professional Skills:"
+Code Reviews, Spec Writing, Test Scenario Development, Software Documentation, Cross Team Collaboration, Software Architecture Design, Agile, Scrum, Team Leadership, Interviewing
+
+.heading "Job History"
 
 .TS
 tab(;) nospaces;
@@ -59,6 +61,8 @@ Acting as senior software engineer for IoT connectivity product
 Serving as de facto tech lead for a small team to constitute cohesion and synergy
 .IP \(bu
 Giving design input and recommendations for a large multi-service product
+.IP \(bu
+Interviews Candidates for Technical Positions
 .sp .5
 T}
 
@@ -117,6 +121,8 @@ T}
 
 .TE
 
+.sp 3
+
 .heading Education
 .TS
 tab(;) nospaces;
@@ -127,6 +133,15 @@ University of Iowa, Tippie College of Business (Direct Admission)
 .IP \(bu
 Business Analytics and Information Systems, IS track. (120 credits / Graduated)
 .sp .5
+T}
+
+\m[default]Course Highlights\m[linecolor];T{
+.IP \(bu 
+Business Programming
+.IP \(bu 
+Comp Sci I & II 
+.IP \(bu 
+Data Structures
 T}
 
 .TE
